@@ -16,4 +16,4 @@ The Arclight server requires a single port for access (default 25565) but additi
 
 You can use this as a template for your repository description or README file.
 
-![Arclight Logo](https://arclightmc.org/path/to/logo.png)
+![](.github/arclightlogo.jpg)
