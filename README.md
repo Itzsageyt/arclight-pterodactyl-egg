@@ -3,6 +3,7 @@
 ![Arclight Logo](https://github.com/JAYEDGAMER/Arclight-pterodactyl-egg/raw/main/arclightlogo.jpg)
 
 ### Arclight
+use `Arclight-fabric-egg.json`, `Arclight-forge-egg.json` as egg
 
 Arclight is a high-performance Minecraft server software that is compatible with Spigot plugins and offers advanced features for improved gameplay. 
 
@@ -14,7 +15,6 @@ The Arclight server requires a single port for access (default 25565) but additi
 
 - **Game Port:** 25565
 
-use `Arclight-fabric-egg.json`, `Arclight-forge-egg.json` as egg
 ---
 
 You can use this as a template for your repository description or README file.
