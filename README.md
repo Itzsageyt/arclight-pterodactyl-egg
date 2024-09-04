@@ -14,6 +14,7 @@ The Arclight server requires a single port for access (default 25565) but additi
 
 - **Game Port:** 25565
 
+use `Arclight-fabric-egg.json`, `Arclight-forge-egg.json` as egg
 ---
 
 You can use this as a template for your repository description or README file.
